@@ -16,9 +16,12 @@
 
 ## Top Projects
 
-- [ChatBotDemo](https://github.com/travondatrack/ChatBotDemo): A simple demo chatbot project built with Python and Flask. ⭐ 0 Stars, Language: JavaScript  
-- [IoT-Dashboard](https://github.com/travondatrack/IoT-Dashboard): A real-time monitoring and visualization platform for IoT devices. ⭐ 1 Star, Language: JavaScript  
-- [my-profile](https://github.com/travondatrack/my-profile): A small personal project to build a profile page. ⭐ 0 Stars, Language: CSS  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=travondatrack&repo=ChatBotDemo&theme=radical)](https://github.com/travondatrack/ChatBotDemo)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=travondatrack&repo=IoT-Dashboard&theme=radical)](https://github.com/travondatrack/IoT-Dashboard)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=travondatrack&repo=my-profile&theme=radical)](https://github.com/travondatrack/my-profile)
+
 
 ## GitHub Stats
 
