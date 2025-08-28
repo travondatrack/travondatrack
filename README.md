@@ -1,4 +1,3 @@
-## ASCII Art
 
 ```
   _                                  _       _                  _    
@@ -9,9 +8,6 @@
                                                                      
 ```
 
-## About Me
-
-cmF2c3luY2lzaGFja2Vy
 
 ## Skills & Technologies
 
