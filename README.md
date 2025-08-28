@@ -1,4 +1,4 @@
-## ASCII Art
+## 
 
 ```
   _                                  _       _                  _    
@@ -9,35 +9,20 @@
                                                                      
 ```
 
-## About Me
-
-cmF2c3luY2lzaGFja2Vy
-
 ## Skills & Technologies
 
-css,java,flask,docker,html,mysql,nodejs,git,github,java
+java,js,html,css,docker,flask,git,github,java,nodejs
 
 ## Top Projects
 
-- [ChatBotDemo](https://github.com/travondatrack/ChatBotDemo): A simple demo chatbot project built with Python and Flask. ⭐ 0 Stars, Language: JavaScript
-- [IoT-Dashboard](https://github.com/travondatrack/IoT-Dashboard): IoT-Dashboard is a real-time monitoring and visualization platform for IoT devices. ⭐ 1 Star, Language: JavaScript
-(https://github.com/travondatrack/my-profile): A small personal project to build a profile page. ⭐ 0 Stars, Language: CSS
+- [**ChatBotDemo**](https://github.com/travondatrack/ChatBotDemo): A simple demo chatbot project built with Python and Flask. **Stars:** 0 | **Language:** JavaScript | **Forks:** 0 | **Issues:** 0
+- [**IoT-Dashboard**](https://github.com/travondatrack/IoT-Dashboard): A real-time monitoring and visualization platform for IoT devices. **Stars:** 1 | **Language:** JavaScript | **Forks:** 0 | **Issues:** 0
 
 ## GitHub Stats
 
-![Public Repos](https://img.shields.io/badge/Public%20Repos-5-brightgreen) ![Followers](https://img.shields.io/badge/Followers-1-blue) ![Following](https://img.shields.io/badge/Following-1-orange)
+📊 **Public Repositories:** 6  |  **Followers:** 1  |  **Following:** 1 
 
-## Recent Activity
-
-- **Updated Dockerfile** in [test](https://github.com/travondatrack/test) on 2025-08-22 11:26:17
-- **Updated pom.xml** in [test](https://github.com/travondatrack/test) on 2025-08-22 11:25:55
-- **Updated pom.xml** in [test](https://github.com/travondatrack/test) on 2025-08-22 11:22:14
-- **Updated Dockerfile** in [test](https://github.com/travondatrack/test) on 2025-08-22 11:19:46
-- **Updated pom.xml** in [test](https://github.com/travondatrack/test) on 2025-08-22 11:18:08
-
-## Latest Blog Posts
-
-Check out my recent posts on [Dev.to](https://dev.to/travondatrack) for insights and tutorials!
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=travondatrack&show_icons=true&theme=radical)
 
 ## Connect with Me
 
