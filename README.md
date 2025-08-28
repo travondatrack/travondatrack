@@ -9,10 +9,6 @@
 ```
 
 
-## Skills & Technologies
-
-css,java,flask,docker,html,mysql,nodejs,git,github,java
-
 ## Top Projects
 
 - [ChatBotDemo](https://github.com/travondatrack/ChatBotDemo): A simple demo chatbot project built with Python and Flask. ⭐ 0 Stars, Language: JavaScript
