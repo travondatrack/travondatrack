@@ -23,24 +23,26 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=travondatrack&repo=my-profile&theme=radical)](https://github.com/travondatrack/my-profile)
 
 
-## GitHub Stats
+## GitHub Stats  
 
-![Public Repos](https://img.shields.io/badge/Public%20Repos-5-brightgreen) ![Followers](https://img.shields.io/badge/Followers-1-blue) ![Following](https://img.shields.io/badge/Following-1-orange)
+![Public Repos](https://img.shields.io/badge/Public%20Repos-6-brightgreen) 
+![Followers](https://img.shields.io/badge/Followers-1-blue) 
+![Following](https://img.shields.io/badge/Following-1-orange)
 
-## Recent Activity
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=travondatrack&show_icons=true&theme=radical)  
 
-- **Updated Dockerfile** in [test](https://github.com/travondatrack/test) on 2025-08-22 11:26:17  
-- **Updated pom.xml** in [test](https://github.com/travondatrack/test) on 2025-08-22 11:25:55  
-- **Updated pom.xml** in [test](https://github.com/travondatrack/test) on 2025-08-22 11:22:14  
-- **Updated Dockerfile** in [test](https://github.com/travondatrack/test) on 2025-08-22 11:19:46  
-- **Updated pom.xml** in [test](https://github.com/travondatrack/test) on 2025-08-22 11:18:08  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=travondatrack&layout=compact&theme=radical)  
 
-## Latest Blog Posts
+![GitHub Streak](https://streak-stats.demolab.com?user=travondatrack&theme=radical&date_format=j%20M%5B%20Y%5D)
 
-Check out my recent posts on [Dev.to](https://dev.to/travondatrack) for insights and tutorials!
 
-## Connect with Me
+## Latest Blog Posts  
 
-- [Instagram](https://www.instagram.com/ravsync/)  
-- [Facebook](https://www.facebook.com/tinhuser/)  
-- [Dev.to](https://dev.to/travondatrack)  
+[![Dev.to](https://img.shields.io/badge/Dev.to-Read%20my%20articles-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/travondatrack)  
+
+## Connect with Me  
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ravsync/)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tinhuser/)  
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/travondatrack)  
+
