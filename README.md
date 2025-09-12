@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXg0OHExanoxazZ1a3R6Njlmc2ZtM3RkdzZkNGphdzV3a2RxNWQ0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif" width="300">
+  <img src="[https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXg0OHExanoxazZ1a3R6Njlmc2ZtM3RkdzZkNGphdzV3a2RxNWQ0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjhuZmkyZnUzenMzMnJqZHNxZDFrcjNrdmNjNXpnNnU2cW9lMmViayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aFTt8wvDtqKCQ/giphy.gif)" width="300">
 </div>
 
 ## Top Projects
